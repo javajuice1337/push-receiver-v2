@@ -1,3 +1,6 @@
+> [!WARNING]
+> This library is no longer functioning since September 2024, and is not maintained. Use this instead: https://github.com/liamcottle/push-receiver
+
 # push-receiver-v2
 
 A library to subscribe to GCM/FCM and receive notifications within a node process. v2 is compatible with the latest FCM registration endpoints.
